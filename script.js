@@ -9,6 +9,7 @@ console.log("helloworl!");
 //     }
 //     console.log(count);
 // }
+// commit
 //arrow function
 
 // const countVow=(str)=>{
